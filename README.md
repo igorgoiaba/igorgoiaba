@@ -2,7 +2,7 @@
 
 Meu nome é Igor Henrique, aqui no site como igorgoiaba
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScrip
 
  **Entre em contato** 📫
